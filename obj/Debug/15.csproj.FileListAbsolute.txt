@@ -1,0 +1,6 @@
+C:\Users\serbu\source\repos\15\15\bin\Debug\15.exe.config
+C:\Users\serbu\source\repos\15\15\bin\Debug\15.exe
+C:\Users\serbu\source\repos\15\15\bin\Debug\15.pdb
+C:\Users\serbu\source\repos\15\15\obj\Debug\15.csproj.CoreCompileInputs.cache
+C:\Users\serbu\source\repos\15\15\obj\Debug\15.exe
+C:\Users\serbu\source\repos\15\15\obj\Debug\15.pdb
